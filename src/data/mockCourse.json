@@ -1,0 +1,372 @@
+{
+    "id": "course-001",
+    "title": "Complete React Developer in 2024",
+    "instructor": {
+        "id": "u1",
+        "name": "Sarah Chen",
+        "avatar": "/avatars/sarah.jpg",
+        "title": "Senior Engineer @ Meta"
+    },
+    "rating": 4.7,
+    "reviewCount": 12430,
+    "enrollmentCount": 84200,
+    "totalDuration": 42300,
+    "level": "intermediate",
+    "lastUpdated": "2024-11",
+    "language": "English",
+    "sections": [
+        {
+            "id": "s1",
+            "title": "Getting Started",
+            "lectures": [
+                {
+                    "id": "l1",
+                    "title": "Course Overview",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": true,
+                    "description": "Get a high-level overview of everything you will learn in this course, including key React concepts, project architecture, and the final application we will build together.",
+                    "resources": []
+                },
+                {
+                    "id": "l2",
+                    "title": "Setting Up Your Environment",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Install Node.js, VS Code, and configure your development environment with essential extensions and settings for a productive React workflow.",
+                    "resources": [
+                        {
+                            "label": "Setup Guide.pdf",
+                            "url": "/resources/setup.pdf"
+                        },
+                        {
+                            "label": "VS Code Extensions List.txt",
+                            "url": "/resources/extensions.txt"
+                        }
+                    ]
+                },
+                {
+                    "id": "l3",
+                    "title": "Your First React App",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": true,
+                    "description": "Bootstrap a new React project using Vite, understand the folder structure, and run your first Hello World component.",
+                    "resources": [
+                        {
+                            "label": "Starter Code.zip",
+                            "url": "/resources/starter.zip"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "s2",
+            "title": "React Fundamentals",
+            "lectures": [
+                {
+                    "id": "l4",
+                    "title": "JSX Deep Dive",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Understand JSX syntax, how it compiles to React.createElement calls, and best practices for writing readable JSX in real-world components.",
+                    "resources": []
+                },
+                {
+                    "id": "l5",
+                    "title": "Props and State",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Learn the difference between props and state, how data flows in React, and when to lift state up the component tree.",
+                    "resources": [
+                        {
+                            "label": "Props vs State Cheatsheet.pdf",
+                            "url": "/resources/props-state.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "l6",
+                    "title": "useEffect Explained",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Master the useEffect hook: dependency arrays, cleanup functions, fetching data, and the common pitfalls to avoid.",
+                    "resources": []
+                },
+                {
+                    "id": "l7",
+                    "title": "Conditional Rendering Patterns",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Explore ternary operators, short-circuit evaluation, and component guard patterns for dynamic UI rendering.",
+                    "resources": []
+                },
+                {
+                    "id": "l8",
+                    "title": "Lists and Keys",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Render dynamic lists efficiently using .map(), understand why keys matter, and avoid common reconciliation bugs.",
+                    "resources": [
+                        {
+                            "label": "Keys Deep Dive Article.pdf",
+                            "url": "/resources/keys.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "s3",
+            "title": "Hooks In Depth",
+            "lectures": [
+                {
+                    "id": "l9",
+                    "title": "useState Advanced Patterns",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Functional updates, lazy initialization, batching state updates, and when to prefer useReducer over useState.",
+                    "resources": []
+                },
+                {
+                    "id": "l10",
+                    "title": "useReducer for Complex State",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Build a mini shopping cart using useReducer and learn how to model state machines, handle side effects, and keep reducers pure.",
+                    "resources": [
+                        {
+                            "label": "useReducer Exercises.zip",
+                            "url": "/resources/reducer-exercises.zip"
+                        }
+                    ]
+                },
+                {
+                    "id": "l11",
+                    "title": "useRef and the DOM",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Access DOM elements directly, persist values across renders without causing re-renders, and manage focus and scroll imperatively.",
+                    "resources": []
+                },
+                {
+                    "id": "l12",
+                    "title": "useMemo and useCallback",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Optimize expensive computations and prevent unnecessary child re-renders by understanding referential equality and memoization.",
+                    "resources": [
+                        {
+                            "label": "Performance Checklist.pdf",
+                            "url": "/resources/perf-checklist.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "l13",
+                    "title": "Custom Hooks",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Extract reusable logic into custom hooks, understand the rules of hooks, and build a useFetch hook from scratch.",
+                    "resources": [
+                        {
+                            "label": "Custom Hook Templates.ts",
+                            "url": "/resources/custom-hooks.ts"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "s4",
+            "title": "Context API & State Management",
+            "lectures": [
+                {
+                    "id": "l14",
+                    "title": "React Context Fundamentals",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Create and consume context, understand the provider pattern, and know when context is the right tool for sharing state.",
+                    "resources": []
+                },
+                {
+                    "id": "l15",
+                    "title": "Avoiding Context Re-renders",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Use context selectors, memoized providers, and split contexts to avoid expensive re-renders in large component trees.",
+                    "resources": [
+                        {
+                            "label": "Context Performance Guide.pdf",
+                            "url": "/resources/context-perf.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "l16",
+                    "title": "When to Use Zustand",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Compare React Context, useReducer, and Zustand for various app scales, and migrate a medium-sized app's state to Zustand.",
+                    "resources": []
+                },
+                {
+                    "id": "l17",
+                    "title": "Global State Architecture",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Design scalable global state with clear ownership boundaries, domain slices, and derived state patterns.",
+                    "resources": [
+                        {
+                            "label": "Architecture Diagrams.pdf",
+                            "url": "/resources/arch-diagrams.pdf"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "s5",
+            "title": "Routing with React Router v6",
+            "lectures": [
+                {
+                    "id": "l18",
+                    "title": "Setting Up React Router",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": true,
+                    "description": "Install and configure React Router v6, set up BrowserRouter, and create your first nested route structure.",
+                    "resources": [
+                        {
+                            "label": "Router Starter Kit.zip",
+                            "url": "/resources/router-starter.zip"
+                        }
+                    ]
+                },
+                {
+                    "id": "l19",
+                    "title": "Dynamic Routes and Params",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Build dynamic routes with URL params, query strings, and wildcard paths. Use useParams and useSearchParams hooks.",
+                    "resources": []
+                },
+                {
+                    "id": "l20",
+                    "title": "Nested Routes and Outlets",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Create dashboard-style layouts with nested routes, the Outlet component, and relative navigation.",
+                    "resources": []
+                },
+                {
+                    "id": "l21",
+                    "title": "Protected Routes and Auth Flow",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Implement authentication guards, redirect after login, and preserve the intended destination URL for post-login navigation.",
+                    "resources": [
+                        {
+                            "label": "Auth Flow Diagram.pdf",
+                            "url": "/resources/auth-flow.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "l22",
+                    "title": "Route-Based Code Splitting",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Use React.lazy and Suspense to split your bundle by route, improving initial load time and Lighthouse scores.",
+                    "resources": []
+                }
+            ]
+        },
+        {
+            "id": "s6",
+            "title": "Performance Optimization",
+            "lectures": [
+                {
+                    "id": "l23",
+                    "title": "React DevTools Profiler",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Use the React DevTools Profiler to record renders, identify bottlenecks, and measure the impact of your optimizations.",
+                    "resources": [
+                        {
+                            "label": "Profiler Walkthrough.pdf",
+                            "url": "/resources/profiler.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "l24",
+                    "title": "Virtualization with react-window",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Render thousands of rows efficiently using windowing techniques with react-window, and handle dynamic item sizes.",
+                    "resources": []
+                },
+                {
+                    "id": "l25",
+                    "title": "Image Optimization Strategies",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Lazy-load images, use modern formats like WebP and AVIF, and integrate next/image-style patterns in pure React apps.",
+                    "resources": []
+                },
+                {
+                    "id": "l26",
+                    "title": "Bundle Analysis and Tree Shaking",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Analyze your bundle with rollup-plugin-visualizer, eliminate dead code, and configure Vite for optimal production builds.",
+                    "resources": [
+                        {
+                            "label": "Bundle Optimization Guide.pdf",
+                            "url": "/resources/bundle-guide.pdf"
+                        }
+                    ]
+                },
+                {
+                    "id": "l27",
+                    "title": "Concurrent Features and Transitions",
+                    "duration": 596,
+                    "videoUrl": "/videos/sample.mp4",
+                    "isFreePreview": false,
+                    "description": "Leverage React 18's concurrent mode, useTransition, and useDeferredValue to keep your UI responsive during heavy updates.",
+                    "resources": [
+                        {
+                            "label": "Concurrent React Cheatsheet.pdf",
+                            "url": "/resources/concurrent.pdf"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

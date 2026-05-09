@@ -1,0 +1,19 @@
+{
+  "requirePragma": true,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "bracketSameLine": true,
+  "bracketSpacing": false,
+  "arrowParens": "avoid",
+  "overrides": [
+    {
+      "files": [
+        "*.js",
+        "*.js.flow"
+      ],
+      "options": {
+        "parser": "hermes"
+      }
+    }
+  ]
+}

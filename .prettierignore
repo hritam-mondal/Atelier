@@ -1,0 +1,51 @@
+# build output
+/dist
+/build
+
+# dependencies
+/node_modules
+
+# test coverage
+/coverage
+
+# Vite cache
+/.vite
+
+# log files
+*.log
+
+# environment files
+.env*
+
+# system files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# misc
+*.local
+
+# public videos (optional, if you don't want to format them)
+public/videos/
+
+# all minified files
+*.min.js
+*.min.css
+
+# lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# generated types
+*.d.ts
+
+# compiled JS/JSX in src (if any)
+src/**/*.js
+src/**/*.jsx
+
+# mock data (optional, if you don't want to format them)
+src/data/mock*

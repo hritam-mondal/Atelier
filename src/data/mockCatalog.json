@@ -1,0 +1,1716 @@
+[
+    {
+        "id": "c001",
+        "slug": "complete-react-developer-2024",
+        "title": "Complete React Developer in 2024",
+        "subtitle": "Build production-ready apps with React 18, TypeScript, Next.js, Redux Toolkit and more",
+        "thumbnail": "https://picsum.photos/seed/react2024/480/270",
+        "instructor": {
+            "id": "u1",
+            "name": "Sarah Chen",
+            "avatar": "https://i.pravatar.cc/48?u=sarah"
+        },
+        "rating": 4.7,
+        "reviewCount": 12430,
+        "enrollmentCount": 84200,
+        "totalDuration": 152280,
+        "lectureCount": 312,
+        "level": "intermediate",
+        "category": "Web Development",
+        "subcategory": "React",
+        "tags": [
+            "react",
+            "typescript",
+            "hooks"
+        ],
+        "language": "English",
+        "price": 89.99,
+        "discountPrice": 14.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-11",
+        "shortDescription": "Master React from hooks to production deployment with real-world projects",
+        "whatYouLearn": [
+            "React 18 Hooks",
+            "TypeScript",
+            "Testing",
+            "Performance"
+        ]
+    },
+    {
+        "id": "c002",
+        "slug": "nodejs-express-complete",
+        "title": "Node.js & Express: The Complete Guide",
+        "subtitle": "Learn server-side JavaScript, REST APIs, authentication, and database integration",
+        "thumbnail": "https://picsum.photos/seed/nodejs/480/270",
+        "instructor": {
+            "id": "u2",
+            "name": "Marcus Rivera",
+            "avatar": "https://i.pravatar.cc/48?u=marcus"
+        },
+        "rating": 4.6,
+        "reviewCount": 8920,
+        "enrollmentCount": 61000,
+        "totalDuration": 122400,
+        "lectureCount": 248,
+        "level": "beginner",
+        "category": "Web Development",
+        "subcategory": "Node.js",
+        "tags": [
+            "nodejs",
+            "express",
+            "api"
+        ],
+        "language": "English",
+        "price": 84.99,
+        "discountPrice": 12.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-10",
+        "shortDescription": "Build scalable backend services with Node.js and Express",
+        "whatYouLearn": [
+            "REST APIs",
+            "Authentication",
+            "MongoDB",
+            "Deployment"
+        ]
+    },
+    {
+        "id": "c003",
+        "slug": "python-data-science-bootcamp",
+        "title": "Python for Data Science Bootcamp",
+        "subtitle": "NumPy, Pandas, Matplotlib, Seaborn, Machine Learning and more",
+        "thumbnail": "https://picsum.photos/seed/pydata/480/270",
+        "instructor": {
+            "id": "u3",
+            "name": "Priya Sharma",
+            "avatar": "https://i.pravatar.cc/48?u=priya"
+        },
+        "rating": 4.8,
+        "reviewCount": 21500,
+        "enrollmentCount": 145000,
+        "totalDuration": 198000,
+        "lectureCount": 450,
+        "level": "beginner",
+        "category": "Data Science",
+        "subcategory": "Python",
+        "tags": [
+            "python",
+            "pandas",
+            "machine-learning"
+        ],
+        "language": "English",
+        "price": 94.99,
+        "discountPrice": 15.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-12",
+        "shortDescription": "Go from zero to data scientist with Python",
+        "whatYouLearn": [
+            "NumPy",
+            "Pandas",
+            "Scikit-Learn",
+            "Visualization"
+        ]
+    },
+    {
+        "id": "c004",
+        "slug": "figma-ui-design-masterclass",
+        "title": "Figma UI/UX Design Masterclass",
+        "subtitle": "Design stunning interfaces with Figma from wireframes to high-fidelity prototypes",
+        "thumbnail": "https://picsum.photos/seed/figma/480/270",
+        "instructor": {
+            "id": "u4",
+            "name": "Aiko Tanaka",
+            "avatar": "https://i.pravatar.cc/48?u=aiko"
+        },
+        "rating": 4.9,
+        "reviewCount": 5640,
+        "enrollmentCount": 32000,
+        "totalDuration": 75600,
+        "lectureCount": 156,
+        "level": "beginner",
+        "category": "Design",
+        "subcategory": "UI/UX",
+        "tags": [
+            "figma",
+            "ui",
+            "ux",
+            "prototyping"
+        ],
+        "language": "English",
+        "price": 74.99,
+        "discountPrice": 11.99,
+        "isBestseller": false,
+        "isNew": true,
+        "lastUpdated": "2025-01",
+        "shortDescription": "Create beautiful product designs with Figma",
+        "whatYouLearn": [
+            "Wireframing",
+            "Prototyping",
+            "Components",
+            "Design Systems"
+        ]
+    },
+    {
+        "id": "c005",
+        "slug": "aws-solutions-architect",
+        "title": "AWS Certified Solutions Architect",
+        "subtitle": "Pass the SAA-C03 exam and design scalable cloud architectures on AWS",
+        "thumbnail": "https://picsum.photos/seed/aws/480/270",
+        "instructor": {
+            "id": "u5",
+            "name": "David Kim",
+            "avatar": "https://i.pravatar.cc/48?u=davidk"
+        },
+        "rating": 4.7,
+        "reviewCount": 18200,
+        "enrollmentCount": 112000,
+        "totalDuration": 162000,
+        "lectureCount": 380,
+        "level": "intermediate",
+        "category": "Web Development",
+        "subcategory": "Cloud",
+        "tags": [
+            "aws",
+            "cloud",
+            "devops"
+        ],
+        "language": "English",
+        "price": 99.99,
+        "discountPrice": 16.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-09",
+        "shortDescription": "Become AWS certified with hands-on labs",
+        "whatYouLearn": [
+            "EC2",
+            "S3",
+            "RDS",
+            "Lambda",
+            "VPC"
+        ]
+    },
+    {
+        "id": "c006",
+        "slug": "machine-learning-az",
+        "title": "Machine Learning A–Z",
+        "subtitle": "Hands-on Python and R for Data Science with real-world datasets",
+        "thumbnail": "https://picsum.photos/seed/ml/480/270",
+        "instructor": {
+            "id": "u6",
+            "name": "Elena Voronova",
+            "avatar": "https://i.pravatar.cc/48?u=elena"
+        },
+        "rating": 4.5,
+        "reviewCount": 31000,
+        "enrollmentCount": 890000,
+        "totalDuration": 234000,
+        "lectureCount": 510,
+        "level": "all-levels",
+        "category": "Data Science",
+        "subcategory": "Machine Learning",
+        "tags": [
+            "machine-learning",
+            "python",
+            "r"
+        ],
+        "language": "English",
+        "price": 94.99,
+        "discountPrice": 13.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-08",
+        "shortDescription": "Master machine learning algorithms from theory to practice",
+        "whatYouLearn": [
+            "Regression",
+            "Classification",
+            "Clustering",
+            "Deep Learning"
+        ]
+    },
+    {
+        "id": "c007",
+        "slug": "digital-marketing-masterclass",
+        "title": "Digital Marketing Masterclass",
+        "subtitle": "SEO, SEM, social media, email, content marketing and analytics",
+        "thumbnail": "https://picsum.photos/seed/marketing/480/270",
+        "instructor": {
+            "id": "u7",
+            "name": "Jessica Park",
+            "avatar": "https://i.pravatar.cc/48?u=jessica"
+        },
+        "rating": 4.4,
+        "reviewCount": 9800,
+        "enrollmentCount": 58000,
+        "totalDuration": 108000,
+        "lectureCount": 225,
+        "level": "beginner",
+        "category": "Marketing",
+        "subcategory": "Digital Marketing",
+        "tags": [
+            "seo",
+            "social-media",
+            "analytics"
+        ],
+        "language": "English",
+        "price": 79.99,
+        "discountPrice": 12.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-07",
+        "shortDescription": "Grow any business with modern digital marketing strategies",
+        "whatYouLearn": [
+            "SEO",
+            "Google Ads",
+            "Social Media",
+            "Email Marketing"
+        ]
+    },
+    {
+        "id": "c008",
+        "slug": "portrait-photography-pro",
+        "title": "Portrait Photography Pro",
+        "subtitle": "Master lighting, composition, and post-processing for stunning portraits",
+        "thumbnail": "https://picsum.photos/seed/portrait/480/270",
+        "instructor": {
+            "id": "u8",
+            "name": "James Okafor",
+            "avatar": "https://i.pravatar.cc/48?u=james"
+        },
+        "rating": 4.8,
+        "reviewCount": 3200,
+        "enrollmentCount": 18500,
+        "totalDuration": 54000,
+        "lectureCount": 98,
+        "level": "intermediate",
+        "category": "Photography",
+        "subcategory": "Portrait",
+        "tags": [
+            "photography",
+            "lighting",
+            "lightroom"
+        ],
+        "language": "English",
+        "price": 69.99,
+        "discountPrice": 10.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-06",
+        "shortDescription": "Take pro-quality portraits with any camera",
+        "whatYouLearn": [
+            "Lighting Setup",
+            "Composition",
+            "Lightroom",
+            "Retouching"
+        ]
+    },
+    {
+        "id": "c009",
+        "slug": "guitar-beginner-to-advanced",
+        "title": "Guitar: Beginner to Advanced",
+        "subtitle": "Learn guitar from scratch with structured lessons covering all styles",
+        "thumbnail": "https://picsum.photos/seed/guitar/480/270",
+        "instructor": {
+            "id": "u9",
+            "name": "Carlos Mendez",
+            "avatar": "https://i.pravatar.cc/48?u=carlos"
+        },
+        "rating": 4.9,
+        "reviewCount": 7600,
+        "enrollmentCount": 42000,
+        "totalDuration": 86400,
+        "lectureCount": 180,
+        "level": "all-levels",
+        "category": "Music",
+        "subcategory": "Guitar",
+        "tags": [
+            "guitar",
+            "music",
+            "beginner"
+        ],
+        "language": "English",
+        "price": 64.99,
+        "discountPrice": 9.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-05",
+        "shortDescription": "Master the guitar from first chord to advanced solos",
+        "whatYouLearn": [
+            "Chords",
+            "Music Theory",
+            "Fingerpicking",
+            "Soloing"
+        ]
+    },
+    {
+        "id": "c010",
+        "slug": "mindfulness-stress-management",
+        "title": "Mindfulness & Stress Management",
+        "subtitle": "Science-backed techniques for reducing anxiety and building resilience",
+        "thumbnail": "https://picsum.photos/seed/mindful/480/270",
+        "instructor": {
+            "id": "u10",
+            "name": "Dr. Lisa Patel",
+            "avatar": "https://i.pravatar.cc/48?u=lisa"
+        },
+        "rating": 4.7,
+        "reviewCount": 4500,
+        "enrollmentCount": 28000,
+        "totalDuration": 32400,
+        "lectureCount": 68,
+        "level": "beginner",
+        "category": "Personal Development",
+        "subcategory": "Mindfulness",
+        "tags": [
+            "mindfulness",
+            "stress",
+            "meditation"
+        ],
+        "language": "English",
+        "price": 49.99,
+        "discountPrice": 8.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-04",
+        "shortDescription": "Reduce stress and build lasting resilience",
+        "whatYouLearn": [
+            "Meditation",
+            "Breathing Techniques",
+            "Habit Building",
+            "Sleep Improvement"
+        ]
+    },
+    {
+        "id": "c011",
+        "slug": "vuejs-complete-guide",
+        "title": "Vue.js – The Complete Guide",
+        "subtitle": "From zero to expert in Vue 3 with Composition API, Pinia and Nuxt",
+        "thumbnail": "https://picsum.photos/seed/vue3/480/270",
+        "instructor": {
+            "id": "u11",
+            "name": "Maximilian Müller",
+            "avatar": "https://i.pravatar.cc/48?u=max"
+        },
+        "rating": 4.7,
+        "reviewCount": 14600,
+        "enrollmentCount": 92000,
+        "totalDuration": 144000,
+        "lectureCount": 302,
+        "level": "all-levels",
+        "category": "Web Development",
+        "subcategory": "Vue.js",
+        "tags": [
+            "vue",
+            "nuxt",
+            "pinia"
+        ],
+        "language": "English",
+        "price": 84.99,
+        "discountPrice": 13.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-10",
+        "shortDescription": "Master Vue 3 with real projects and Composition API",
+        "whatYouLearn": [
+            "Vue 3",
+            "Composition API",
+            "Pinia",
+            "Nuxt 3"
+        ]
+    },
+    {
+        "id": "c012",
+        "slug": "sql-bootcamp",
+        "title": "The Complete SQL Bootcamp",
+        "subtitle": "Learn SQL for data analysis using PostgreSQL with hands-on exercises",
+        "thumbnail": "https://picsum.photos/seed/sql/480/270",
+        "instructor": {
+            "id": "u12",
+            "name": "Rachel Torres",
+            "avatar": "https://i.pravatar.cc/48?u=rachel"
+        },
+        "rating": 4.6,
+        "reviewCount": 26400,
+        "enrollmentCount": 178000,
+        "totalDuration": 79200,
+        "lectureCount": 164,
+        "level": "beginner",
+        "category": "Data Science",
+        "subcategory": "SQL",
+        "tags": [
+            "sql",
+            "postgresql",
+            "database"
+        ],
+        "language": "English",
+        "price": 74.99,
+        "discountPrice": 12.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-11",
+        "shortDescription": "Go from SQL novice to expert with PostgreSQL",
+        "whatYouLearn": [
+            "SELECT queries",
+            "Joins",
+            "Aggregations",
+            "Window Functions"
+        ]
+    },
+    {
+        "id": "c013",
+        "slug": "freelancing-business",
+        "title": "Freelancing: Build a 6-Figure Business",
+        "subtitle": "Find high-value clients, set your rates, and grow your freelance career",
+        "thumbnail": "https://picsum.photos/seed/freelance/480/270",
+        "instructor": {
+            "id": "u13",
+            "name": "Tom Nguyen",
+            "avatar": "https://i.pravatar.cc/48?u=tom"
+        },
+        "rating": 4.3,
+        "reviewCount": 2100,
+        "enrollmentCount": 12000,
+        "totalDuration": 43200,
+        "lectureCount": 88,
+        "level": "beginner",
+        "category": "Business",
+        "subcategory": "Freelancing",
+        "tags": [
+            "freelancing",
+            "business",
+            "income"
+        ],
+        "language": "English",
+        "price": 59.99,
+        "discountPrice": 9.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-03",
+        "shortDescription": "Build a profitable freelance business from scratch",
+        "whatYouLearn": [
+            "Finding Clients",
+            "Pricing",
+            "Contracts",
+            "Scaling"
+        ]
+    },
+    {
+        "id": "c014",
+        "slug": "landscape-photography",
+        "title": "Landscape Photography Essentials",
+        "subtitle": "Capture breathtaking landscapes with composition, golden hour, and long exposure",
+        "thumbnail": "https://picsum.photos/seed/landscape/480/270",
+        "instructor": {
+            "id": "u8",
+            "name": "James Okafor",
+            "avatar": "https://i.pravatar.cc/48?u=james"
+        },
+        "rating": 4.6,
+        "reviewCount": 1800,
+        "enrollmentCount": 9500,
+        "totalDuration": 36000,
+        "lectureCount": 72,
+        "level": "beginner",
+        "category": "Photography",
+        "subcategory": "Landscape",
+        "tags": [
+            "photography",
+            "landscape",
+            "composition"
+        ],
+        "language": "English",
+        "price": 54.99,
+        "discountPrice": 8.99,
+        "isBestseller": false,
+        "isNew": true,
+        "lastUpdated": "2025-01",
+        "shortDescription": "Capture stunning landscape photos in any conditions",
+        "whatYouLearn": [
+            "Composition Rules",
+            "Golden Hour",
+            "Long Exposure",
+            "Editing"
+        ]
+    },
+    {
+        "id": "c015",
+        "slug": "django-rest-api",
+        "title": "Django REST Framework Mastery",
+        "subtitle": "Build production-grade REST APIs with Django, DRF, JWT and Docker",
+        "thumbnail": "https://picsum.photos/seed/django/480/270",
+        "instructor": {
+            "id": "u3",
+            "name": "Priya Sharma",
+            "avatar": "https://i.pravatar.cc/48?u=priya"
+        },
+        "rating": 4.5,
+        "reviewCount": 6300,
+        "enrollmentCount": 38000,
+        "totalDuration": 115200,
+        "lectureCount": 235,
+        "level": "intermediate",
+        "category": "Web Development",
+        "subcategory": "Python",
+        "tags": [
+            "django",
+            "python",
+            "api",
+            "docker"
+        ],
+        "language": "English",
+        "price": 84.99,
+        "discountPrice": 13.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-09",
+        "shortDescription": "Build and ship REST APIs with Django and Docker",
+        "whatYouLearn": [
+            "Django ORM",
+            "DRF Serializers",
+            "JWT Auth",
+            "Dockerizing"
+        ]
+    },
+    {
+        "id": "c016",
+        "slug": "deep-learning-tensorflow",
+        "title": "Deep Learning with TensorFlow 2",
+        "subtitle": "Neural networks, CNNs, RNNs, and transformers for real-world AI applications",
+        "thumbnail": "https://picsum.photos/seed/tensorflow/480/270",
+        "instructor": {
+            "id": "u6",
+            "name": "Elena Voronova",
+            "avatar": "https://i.pravatar.cc/48?u=elena"
+        },
+        "rating": 4.6,
+        "reviewCount": 11200,
+        "enrollmentCount": 67000,
+        "totalDuration": 180000,
+        "lectureCount": 390,
+        "level": "advanced",
+        "category": "Data Science",
+        "subcategory": "Deep Learning",
+        "tags": [
+            "tensorflow",
+            "neural-networks",
+            "ai"
+        ],
+        "language": "English",
+        "price": 99.99,
+        "discountPrice": 16.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-10",
+        "shortDescription": "Build AI systems with TensorFlow 2 and Keras",
+        "whatYouLearn": [
+            "CNNs",
+            "RNNs",
+            "Transformers",
+            "Transfer Learning"
+        ]
+    },
+    {
+        "id": "c017",
+        "slug": "content-marketing-strategy",
+        "title": "Content Marketing Strategy",
+        "subtitle": "Create content that ranks on Google, builds authority, and converts readers to buyers",
+        "thumbnail": "https://picsum.photos/seed/content/480/270",
+        "instructor": {
+            "id": "u7",
+            "name": "Jessica Park",
+            "avatar": "https://i.pravatar.cc/48?u=jessica"
+        },
+        "rating": 4.5,
+        "reviewCount": 3400,
+        "enrollmentCount": 21000,
+        "totalDuration": 57600,
+        "lectureCount": 118,
+        "level": "intermediate",
+        "category": "Marketing",
+        "subcategory": "Content Marketing",
+        "tags": [
+            "content",
+            "seo",
+            "copywriting"
+        ],
+        "language": "English",
+        "price": 69.99,
+        "discountPrice": 11.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-06",
+        "shortDescription": "Build a content engine that drives organic growth",
+        "whatYouLearn": [
+            "Content Strategy",
+            "SEO Writing",
+            "Distribution",
+            "Analytics"
+        ]
+    },
+    {
+        "id": "c018",
+        "slug": "piano-fundamentals",
+        "title": "Piano Fundamentals for Beginners",
+        "subtitle": "Learn to read music and play songs in weeks with proven practice methods",
+        "thumbnail": "https://picsum.photos/seed/piano/480/270",
+        "instructor": {
+            "id": "u14",
+            "name": "Sophie Laurent",
+            "avatar": "https://i.pravatar.cc/48?u=sophie"
+        },
+        "rating": 4.8,
+        "reviewCount": 5900,
+        "enrollmentCount": 35000,
+        "totalDuration": 64800,
+        "lectureCount": 132,
+        "level": "beginner",
+        "category": "Music",
+        "subcategory": "Piano",
+        "tags": [
+            "piano",
+            "music-theory",
+            "beginner"
+        ],
+        "language": "English",
+        "price": 64.99,
+        "discountPrice": 9.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-05",
+        "shortDescription": "Play piano with confidence in just a few weeks",
+        "whatYouLearn": [
+            "Note Reading",
+            "Chords",
+            "Rhythm",
+            "Music Theory"
+        ]
+    },
+    {
+        "id": "c019",
+        "slug": "leadership-essentials",
+        "title": "Leadership Essentials",
+        "subtitle": "Build high-performing teams, communicate with impact, and lead through change",
+        "thumbnail": "https://picsum.photos/seed/leadership/480/270",
+        "instructor": {
+            "id": "u15",
+            "name": "Michael Adeyemi",
+            "avatar": "https://i.pravatar.cc/48?u=michael"
+        },
+        "rating": 4.4,
+        "reviewCount": 6100,
+        "enrollmentCount": 39000,
+        "totalDuration": 46800,
+        "lectureCount": 96,
+        "level": "intermediate",
+        "category": "Business",
+        "subcategory": "Leadership",
+        "tags": [
+            "leadership",
+            "management",
+            "teams"
+        ],
+        "language": "English",
+        "price": 74.99,
+        "discountPrice": 11.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-07",
+        "shortDescription": "Become the leader your team deserves",
+        "whatYouLearn": [
+            "Team Building",
+            "Communication",
+            "Decision Making",
+            "Conflict Resolution"
+        ]
+    },
+    {
+        "id": "c020",
+        "slug": "nextjs-fullstack",
+        "title": "Next.js 14 Full-Stack Development",
+        "subtitle": "App Router, Server Components, Server Actions, Prisma and Vercel deployment",
+        "thumbnail": "https://picsum.photos/seed/nextjs/480/270",
+        "instructor": {
+            "id": "u1",
+            "name": "Sarah Chen",
+            "avatar": "https://i.pravatar.cc/48?u=sarah"
+        },
+        "rating": 4.8,
+        "reviewCount": 4200,
+        "enrollmentCount": 24000,
+        "totalDuration": 129600,
+        "lectureCount": 268,
+        "level": "intermediate",
+        "category": "Web Development",
+        "subcategory": "React",
+        "tags": [
+            "nextjs",
+            "react",
+            "fullstack"
+        ],
+        "language": "English",
+        "price": 94.99,
+        "discountPrice": 15.99,
+        "isBestseller": false,
+        "isNew": true,
+        "lastUpdated": "2025-01",
+        "shortDescription": "Build and ship full-stack Next.js apps to production",
+        "whatYouLearn": [
+            "App Router",
+            "Server Components",
+            "Prisma",
+            "Auth.js"
+        ]
+    },
+    {
+        "id": "c021",
+        "slug": "adobe-premiere-pro",
+        "title": "Adobe Premiere Pro: Video Editing",
+        "subtitle": "Professional video editing, color grading, and motion graphics for YouTube and film",
+        "thumbnail": "https://picsum.photos/seed/premiere/480/270",
+        "instructor": {
+            "id": "u16",
+            "name": "Zara Andersen",
+            "avatar": "https://i.pravatar.cc/48?u=zara"
+        },
+        "rating": 4.6,
+        "reviewCount": 7200,
+        "enrollmentCount": 45000,
+        "totalDuration": 97200,
+        "lectureCount": 198,
+        "level": "beginner",
+        "category": "Design",
+        "subcategory": "Video Editing",
+        "tags": [
+            "premiere",
+            "video-editing",
+            "youtube"
+        ],
+        "language": "English",
+        "price": 79.99,
+        "discountPrice": 12.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-08",
+        "shortDescription": "Edit videos like a professional with Premiere Pro",
+        "whatYouLearn": [
+            "Timeline Editing",
+            "Color Grading",
+            "Audio Mixing",
+            "Motion Graphics"
+        ]
+    },
+    {
+        "id": "c022",
+        "slug": "excel-data-analysis",
+        "title": "Excel for Data Analysis",
+        "subtitle": "PivotTables, Power Query, VBA macros, and dashboard design for business intelligence",
+        "thumbnail": "https://picsum.photos/seed/excel/480/270",
+        "instructor": {
+            "id": "u12",
+            "name": "Rachel Torres",
+            "avatar": "https://i.pravatar.cc/48?u=rachel"
+        },
+        "rating": 4.5,
+        "reviewCount": 18700,
+        "enrollmentCount": 122000,
+        "totalDuration": 68400,
+        "lectureCount": 142,
+        "level": "intermediate",
+        "category": "Data Science",
+        "subcategory": "Excel",
+        "tags": [
+            "excel",
+            "data-analysis",
+            "business"
+        ],
+        "language": "English",
+        "price": 64.99,
+        "discountPrice": 10.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-09",
+        "shortDescription": "Turn raw data into actionable insights with Excel",
+        "whatYouLearn": [
+            "PivotTables",
+            "Power Query",
+            "VLOOKUP",
+            "Dashboards"
+        ]
+    },
+    {
+        "id": "c023",
+        "slug": "social-media-marketing",
+        "title": "Social Media Marketing 2024",
+        "subtitle": "Grow your brand on Instagram, TikTok, LinkedIn, and YouTube with proven strategies",
+        "thumbnail": "https://picsum.photos/seed/socialmedia/480/270",
+        "instructor": {
+            "id": "u7",
+            "name": "Jessica Park",
+            "avatar": "https://i.pravatar.cc/48?u=jessica"
+        },
+        "rating": 4.3,
+        "reviewCount": 5600,
+        "enrollmentCount": 34000,
+        "totalDuration": 72000,
+        "lectureCount": 148,
+        "level": "beginner",
+        "category": "Marketing",
+        "subcategory": "Social Media",
+        "tags": [
+            "instagram",
+            "tiktok",
+            "linkedin"
+        ],
+        "language": "English",
+        "price": 69.99,
+        "discountPrice": 11.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-08",
+        "shortDescription": "Build a following and generate leads on social media",
+        "whatYouLearn": [
+            "Content Creation",
+            "Hashtag Strategy",
+            "Paid Ads",
+            "Analytics"
+        ]
+    },
+    {
+        "id": "c024",
+        "slug": "kubernetes-devops",
+        "title": "Kubernetes for DevOps Engineers",
+        "subtitle": "Deploy, scale, and manage containerized applications with Kubernetes and Helm",
+        "thumbnail": "https://picsum.photos/seed/k8s/480/270",
+        "instructor": {
+            "id": "u5",
+            "name": "David Kim",
+            "avatar": "https://i.pravatar.cc/48?u=davidk"
+        },
+        "rating": 4.6,
+        "reviewCount": 8100,
+        "enrollmentCount": 52000,
+        "totalDuration": 136800,
+        "lectureCount": 285,
+        "level": "advanced",
+        "category": "Web Development",
+        "subcategory": "DevOps",
+        "tags": [
+            "kubernetes",
+            "docker",
+            "devops"
+        ],
+        "language": "English",
+        "price": 94.99,
+        "discountPrice": 15.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-11",
+        "shortDescription": "Master Kubernetes from pods to production clusters",
+        "whatYouLearn": [
+            "Pods & Services",
+            "Helm",
+            "Ingress",
+            "CI/CD Pipelines"
+        ]
+    },
+    {
+        "id": "c025",
+        "slug": "public-speaking-confidence",
+        "title": "Public Speaking Confidence",
+        "subtitle": "Eliminate fear, structure compelling talks, and captivate any audience",
+        "thumbnail": "https://picsum.photos/seed/speaking/480/270",
+        "instructor": {
+            "id": "u15",
+            "name": "Michael Adeyemi",
+            "avatar": "https://i.pravatar.cc/48?u=michael"
+        },
+        "rating": 4.7,
+        "reviewCount": 8900,
+        "enrollmentCount": 56000,
+        "totalDuration": 28800,
+        "lectureCount": 58,
+        "level": "beginner",
+        "category": "Personal Development",
+        "subcategory": "Communication",
+        "tags": [
+            "public-speaking",
+            "confidence",
+            "presentation"
+        ],
+        "language": "English",
+        "price": 54.99,
+        "discountPrice": 8.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-05",
+        "shortDescription": "Speak with confidence in front of any audience",
+        "whatYouLearn": [
+            "Overcoming Fear",
+            "Storytelling",
+            "Slide Design",
+            "Q&A Handling"
+        ]
+    },
+    {
+        "id": "c026",
+        "slug": "blender-3d-modeling",
+        "title": "Blender 3D Modeling & Animation",
+        "subtitle": "Create stunning 3D art, product visualizations, and animated shorts with Blender",
+        "thumbnail": "https://picsum.photos/seed/blender/480/270",
+        "instructor": {
+            "id": "u17",
+            "name": "Leon Fischer",
+            "avatar": "https://i.pravatar.cc/48?u=leon"
+        },
+        "rating": 4.7,
+        "reviewCount": 9400,
+        "enrollmentCount": 61000,
+        "totalDuration": 162000,
+        "lectureCount": 335,
+        "level": "beginner",
+        "category": "Design",
+        "subcategory": "3D Modeling",
+        "tags": [
+            "blender",
+            "3d",
+            "animation",
+            "rendering"
+        ],
+        "language": "English",
+        "price": 84.99,
+        "discountPrice": 13.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-10",
+        "shortDescription": "Go from 0 to professional 3D artist with Blender",
+        "whatYouLearn": [
+            "Modeling",
+            "Rigging",
+            "Animation",
+            "Rendering"
+        ]
+    },
+    {
+        "id": "c027",
+        "slug": "power-bi-analytics",
+        "title": "Power BI: Business Analytics",
+        "subtitle": "Build interactive dashboards and reports to drive data-driven decisions",
+        "thumbnail": "https://picsum.photos/seed/powerbi/480/270",
+        "instructor": {
+            "id": "u12",
+            "name": "Rachel Torres",
+            "avatar": "https://i.pravatar.cc/48?u=rachel"
+        },
+        "rating": 4.6,
+        "reviewCount": 11300,
+        "enrollmentCount": 74000,
+        "totalDuration": 86400,
+        "lectureCount": 178,
+        "level": "intermediate",
+        "category": "Data Science",
+        "subcategory": "Business Intelligence",
+        "tags": [
+            "power-bi",
+            "dax",
+            "dashboard"
+        ],
+        "language": "English",
+        "price": 79.99,
+        "discountPrice": 12.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-09",
+        "shortDescription": "Build stunning dashboards with Power BI and DAX",
+        "whatYouLearn": [
+            "Data Modeling",
+            "DAX",
+            "Visualizations",
+            "Publishing"
+        ]
+    },
+    {
+        "id": "c028",
+        "slug": "email-marketing-automation",
+        "title": "Email Marketing & Automation",
+        "subtitle": "Build email lists, write high-converting sequences, and automate campaigns",
+        "thumbnail": "https://picsum.photos/seed/email/480/270",
+        "instructor": {
+            "id": "u13",
+            "name": "Tom Nguyen",
+            "avatar": "https://i.pravatar.cc/48?u=tom"
+        },
+        "rating": 4.4,
+        "reviewCount": 2900,
+        "enrollmentCount": 18000,
+        "totalDuration": 43200,
+        "lectureCount": 88,
+        "level": "beginner",
+        "category": "Marketing",
+        "subcategory": "Email Marketing",
+        "tags": [
+            "email",
+            "automation",
+            "mailchimp"
+        ],
+        "language": "English",
+        "price": 59.99,
+        "discountPrice": 9.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-04",
+        "shortDescription": "Generate revenue with email marketing automation",
+        "whatYouLearn": [
+            "List Building",
+            "Copywriting",
+            "Segmentation",
+            "Automation Flows"
+        ]
+    },
+    {
+        "id": "c029",
+        "slug": "rust-systems-programming",
+        "title": "Rust Systems Programming",
+        "subtitle": "Memory safety, ownership, concurrency, and building high-performance CLI tools",
+        "thumbnail": "https://picsum.photos/seed/rust/480/270",
+        "instructor": {
+            "id": "u18",
+            "name": "Ana Lima",
+            "avatar": "https://i.pravatar.cc/48?u=ana"
+        },
+        "rating": 4.8,
+        "reviewCount": 3600,
+        "enrollmentCount": 19000,
+        "totalDuration": 118800,
+        "lectureCount": 245,
+        "level": "advanced",
+        "category": "Web Development",
+        "subcategory": "Rust",
+        "tags": [
+            "rust",
+            "systems",
+            "performance"
+        ],
+        "language": "English",
+        "price": 89.99,
+        "discountPrice": 14.99,
+        "isBestseller": false,
+        "isNew": true,
+        "lastUpdated": "2025-01",
+        "shortDescription": "Write safe, blazing-fast systems code in Rust",
+        "whatYouLearn": [
+            "Ownership",
+            "Lifetimes",
+            "Concurrency",
+            "Async Rust"
+        ]
+    },
+    {
+        "id": "c030",
+        "slug": "photography-fundamentals-free",
+        "title": "Photography Fundamentals",
+        "subtitle": "Master exposure, aperture, shutter speed, and ISO with your camera",
+        "thumbnail": "https://picsum.photos/seed/photofund/480/270",
+        "instructor": {
+            "id": "u8",
+            "name": "James Okafor",
+            "avatar": "https://i.pravatar.cc/48?u=james"
+        },
+        "rating": 4.5,
+        "reviewCount": 15400,
+        "enrollmentCount": 98000,
+        "totalDuration": 18000,
+        "lectureCount": 36,
+        "level": "beginner",
+        "category": "Photography",
+        "subcategory": "Basics",
+        "tags": [
+            "photography",
+            "exposure",
+            "camera"
+        ],
+        "language": "English",
+        "price": 0,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-03",
+        "shortDescription": "Learn the exposure triangle and take better photos today",
+        "whatYouLearn": [
+            "Aperture",
+            "Shutter Speed",
+            "ISO",
+            "White Balance"
+        ]
+    },
+    {
+        "id": "c031",
+        "slug": "startup-launch",
+        "title": "Launch a Startup in 30 Days",
+        "subtitle": "Validate your idea, build an MVP, find your first customers, and raise funding",
+        "thumbnail": "https://picsum.photos/seed/startup/480/270",
+        "instructor": {
+            "id": "u13",
+            "name": "Tom Nguyen",
+            "avatar": "https://i.pravatar.cc/48?u=tom"
+        },
+        "rating": 4.2,
+        "reviewCount": 1600,
+        "enrollmentCount": 9800,
+        "totalDuration": 57600,
+        "lectureCount": 116,
+        "level": "beginner",
+        "category": "Business",
+        "subcategory": "Entrepreneurship",
+        "tags": [
+            "startup",
+            "mvp",
+            "entrepreneurship"
+        ],
+        "language": "English",
+        "price": 74.99,
+        "discountPrice": 12.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-02",
+        "shortDescription": "Turn your idea into a real business in 30 days",
+        "whatYouLearn": [
+            "Idea Validation",
+            "MVP",
+            "Customer Discovery",
+            "Fundraising"
+        ]
+    },
+    {
+        "id": "c032",
+        "slug": "music-production-ableton",
+        "title": "Music Production with Ableton Live",
+        "subtitle": "Produce professional tracks, mix, and master using Ableton Live 11",
+        "thumbnail": "https://picsum.photos/seed/ableton/480/270",
+        "instructor": {
+            "id": "u14",
+            "name": "Sophie Laurent",
+            "avatar": "https://i.pravatar.cc/48?u=sophie"
+        },
+        "rating": 4.7,
+        "reviewCount": 4100,
+        "enrollmentCount": 26000,
+        "totalDuration": 82800,
+        "lectureCount": 170,
+        "level": "beginner",
+        "category": "Music",
+        "subcategory": "Music Production",
+        "tags": [
+            "ableton",
+            "music-production",
+            "mixing"
+        ],
+        "language": "English",
+        "price": 79.99,
+        "discountPrice": 12.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-06",
+        "shortDescription": "Produce and release your first professional track",
+        "whatYouLearn": [
+            "Arrangement",
+            "Mixing",
+            "Mastering",
+            "Sound Design"
+        ]
+    },
+    {
+        "id": "c033",
+        "slug": "graphql-api-development",
+        "title": "GraphQL API Development",
+        "subtitle": "Design, build, and secure GraphQL APIs with Node.js and Apollo Server",
+        "thumbnail": "https://picsum.photos/seed/graphql/480/270",
+        "instructor": {
+            "id": "u2",
+            "name": "Marcus Rivera",
+            "avatar": "https://i.pravatar.cc/48?u=marcus"
+        },
+        "rating": 4.5,
+        "reviewCount": 3800,
+        "enrollmentCount": 22000,
+        "totalDuration": 90000,
+        "lectureCount": 186,
+        "level": "intermediate",
+        "category": "Web Development",
+        "subcategory": "API",
+        "tags": [
+            "graphql",
+            "apollo",
+            "api"
+        ],
+        "language": "English",
+        "price": 79.99,
+        "discountPrice": 12.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-07",
+        "shortDescription": "Build type-safe APIs with GraphQL and Apollo",
+        "whatYouLearn": [
+            "Schema Design",
+            "Resolvers",
+            "Authentication",
+            "Caching"
+        ]
+    },
+    {
+        "id": "c034",
+        "slug": "nlp-python",
+        "title": "Natural Language Processing with Python",
+        "subtitle": "Text classification, sentiment analysis, BERT, and LLM fine-tuning",
+        "thumbnail": "https://picsum.photos/seed/nlp/480/270",
+        "instructor": {
+            "id": "u6",
+            "name": "Elena Voronova",
+            "avatar": "https://i.pravatar.cc/48?u=elena"
+        },
+        "rating": 4.6,
+        "reviewCount": 5700,
+        "enrollmentCount": 34000,
+        "totalDuration": 144000,
+        "lectureCount": 298,
+        "level": "advanced",
+        "category": "Data Science",
+        "subcategory": "NLP",
+        "tags": [
+            "nlp",
+            "bert",
+            "python",
+            "llm"
+        ],
+        "language": "English",
+        "price": 94.99,
+        "discountPrice": 15.99,
+        "isBestseller": false,
+        "isNew": true,
+        "lastUpdated": "2025-01",
+        "shortDescription": "Build NLP applications from NLTK to fine-tuned LLMs",
+        "whatYouLearn": [
+            "Text Processing",
+            "BERT",
+            "Fine-Tuning",
+            "Deployment"
+        ]
+    },
+    {
+        "id": "c035",
+        "slug": "ios-swift-swiftui",
+        "title": "iOS Development with Swift & SwiftUI",
+        "subtitle": "Build beautiful native iOS apps and publish them on the App Store",
+        "thumbnail": "https://picsum.photos/seed/swift/480/270",
+        "instructor": {
+            "id": "u19",
+            "name": "Nina Patel",
+            "avatar": "https://i.pravatar.cc/48?u=nina"
+        },
+        "rating": 4.7,
+        "reviewCount": 9800,
+        "enrollmentCount": 63000,
+        "totalDuration": 162000,
+        "lectureCount": 340,
+        "level": "beginner",
+        "category": "Web Development",
+        "subcategory": "iOS",
+        "tags": [
+            "swift",
+            "swiftui",
+            "ios",
+            "apple"
+        ],
+        "language": "English",
+        "price": 89.99,
+        "discountPrice": 14.99,
+        "isBestseller": true,
+        "isNew": false,
+        "lastUpdated": "2024-11",
+        "shortDescription": "Build iOS apps and launch them on the App Store",
+        "whatYouLearn": [
+            "Swift",
+            "SwiftUI",
+            "Core Data",
+            "App Store Submission"
+        ]
+    },
+    {
+        "id": "c036",
+        "slug": "habit-formation-productivity",
+        "title": "Habit Formation & Productivity",
+        "subtitle": "Use neuroscience to build lasting habits, beat procrastination, and do deep work",
+        "thumbnail": "https://picsum.photos/seed/habits/480/270",
+        "instructor": {
+            "id": "u10",
+            "name": "Dr. Lisa Patel",
+            "avatar": "https://i.pravatar.cc/48?u=lisa"
+        },
+        "rating": 4.6,
+        "reviewCount": 7200,
+        "enrollmentCount": 48000,
+        "totalDuration": 25200,
+        "lectureCount": 52,
+        "level": "beginner",
+        "category": "Personal Development",
+        "subcategory": "Productivity",
+        "tags": [
+            "habits",
+            "productivity",
+            "focus"
+        ],
+        "language": "English",
+        "price": 0,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-04",
+        "shortDescription": "Build life-changing habits backed by neuroscience",
+        "whatYouLearn": [
+            "Habit Loops",
+            "Atomic Habits",
+            "Deep Work",
+            "Time Blocking"
+        ]
+    },
+    {
+        "id": "c037",
+        "slug": "ethical-hacking-ceh",
+        "title": "Ethical Hacking & Penetration Testing",
+        "subtitle": "CEH exam prep with hands-on labs: network scanning, exploitation, and reporting",
+        "thumbnail": "https://picsum.photos/seed/hacking/480/270",
+        "instructor": {
+            "id": "u20",
+            "name": "Omar Hassan",
+            "avatar": "https://i.pravatar.cc/48?u=omar"
+        },
+        "rating": 4.6,
+        "reviewCount": 12900,
+        "enrollmentCount": 82000,
+        "totalDuration": 198000,
+        "lectureCount": 412,
+        "level": "intermediate",
+        "category": "Web Development",
+        "subcategory": "Security",
+        "tags": [
+            "security",
+            "hacking",
+            "networking"
+        ],
+        "language": "English",
+        "price": 99.99,
+        "discountPrice": 16.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-10",
+        "shortDescription": "Learn ethical hacking with hands-on labs and CEH prep",
+        "whatYouLearn": [
+            "Network Scanning",
+            "Exploitation",
+            "Web Hacking",
+            "Reporting"
+        ]
+    },
+    {
+        "id": "c038",
+        "slug": "brand-identity-design",
+        "title": "Brand Identity Design",
+        "subtitle": "Create iconic logos, color palettes, typography systems, and brand guidelines",
+        "thumbnail": "https://picsum.photos/seed/brand/480/270",
+        "instructor": {
+            "id": "u4",
+            "name": "Aiko Tanaka",
+            "avatar": "https://i.pravatar.cc/48?u=aiko"
+        },
+        "rating": 4.7,
+        "reviewCount": 4800,
+        "enrollmentCount": 29000,
+        "totalDuration": 61200,
+        "lectureCount": 126,
+        "level": "intermediate",
+        "category": "Design",
+        "subcategory": "Branding",
+        "tags": [
+            "branding",
+            "logo",
+            "typography"
+        ],
+        "language": "English",
+        "price": 74.99,
+        "discountPrice": 11.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-07",
+        "shortDescription": "Design brands that stand out and last a decade",
+        "whatYouLearn": [
+            "Logo Design",
+            "Color Theory",
+            "Typography",
+            "Brand Guidelines"
+        ]
+    },
+    {
+        "id": "c039",
+        "slug": "finance-investing-beginners",
+        "title": "Personal Finance & Investing",
+        "subtitle": "Budget, save, invest in index funds, and build wealth on any income",
+        "thumbnail": "https://picsum.photos/seed/finance/480/270",
+        "instructor": {
+            "id": "u15",
+            "name": "Michael Adeyemi",
+            "avatar": "https://i.pravatar.cc/48?u=michael"
+        },
+        "rating": 4.5,
+        "reviewCount": 9600,
+        "enrollmentCount": 62000,
+        "totalDuration": 39600,
+        "lectureCount": 80,
+        "level": "beginner",
+        "category": "Business",
+        "subcategory": "Finance",
+        "tags": [
+            "investing",
+            "finance",
+            "budgeting"
+        ],
+        "language": "English",
+        "price": 54.99,
+        "discountPrice": 8.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-06",
+        "shortDescription": "Take control of your money and start investing today",
+        "whatYouLearn": [
+            "Budgeting",
+            "Index Funds",
+            "Tax Strategy",
+            "Retirement"
+        ]
+    },
+    {
+        "id": "c040",
+        "slug": "android-kotlin-jetpack",
+        "title": "Android Development with Kotlin",
+        "subtitle": "Build modern Android apps with Jetpack Compose, Room, and Google Play publishing",
+        "thumbnail": "https://picsum.photos/seed/android/480/270",
+        "instructor": {
+            "id": "u19",
+            "name": "Nina Patel",
+            "avatar": "https://i.pravatar.cc/48?u=nina"
+        },
+        "rating": 4.6,
+        "reviewCount": 6700,
+        "enrollmentCount": 43000,
+        "totalDuration": 151200,
+        "lectureCount": 315,
+        "level": "beginner",
+        "category": "Web Development",
+        "subcategory": "Android",
+        "tags": [
+            "android",
+            "kotlin",
+            "jetpack-compose"
+        ],
+        "language": "English",
+        "price": 84.99,
+        "discountPrice": 13.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-10",
+        "shortDescription": "Build Android apps with modern Kotlin and Jetpack Compose",
+        "whatYouLearn": [
+            "Kotlin",
+            "Jetpack Compose",
+            "Room",
+            "MVVM"
+        ]
+    },
+    {
+        "id": "c041",
+        "slug": "watercolor-painting",
+        "title": "Watercolor Painting for Beginners",
+        "subtitle": "Learn blending, washes, and painting flowers, landscapes, and portraits",
+        "thumbnail": "https://picsum.photos/seed/watercolor/480/270",
+        "instructor": {
+            "id": "u21",
+            "name": "Mei Zhang",
+            "avatar": "https://i.pravatar.cc/48?u=mei"
+        },
+        "rating": 4.8,
+        "reviewCount": 2400,
+        "enrollmentCount": 14000,
+        "totalDuration": 43200,
+        "lectureCount": 88,
+        "level": "beginner",
+        "category": "Design",
+        "subcategory": "Painting",
+        "tags": [
+            "watercolor",
+            "painting",
+            "art"
+        ],
+        "language": "English",
+        "price": 49.99,
+        "discountPrice": 7.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-05",
+        "shortDescription": "Paint beautiful watercolors starting from day one",
+        "whatYouLearn": [
+            "Color Mixing",
+            "Washes",
+            "Wet-on-Wet",
+            "Composition"
+        ]
+    },
+    {
+        "id": "c042",
+        "slug": "typescript-advanced",
+        "title": "TypeScript: Advanced Patterns",
+        "subtitle": "Generics, conditional types, decorators, and building type-safe libraries",
+        "thumbnail": "https://picsum.photos/seed/typescript/480/270",
+        "instructor": {
+            "id": "u1",
+            "name": "Sarah Chen",
+            "avatar": "https://i.pravatar.cc/48?u=sarah"
+        },
+        "rating": 4.7,
+        "reviewCount": 3100,
+        "enrollmentCount": 17000,
+        "totalDuration": 68400,
+        "lectureCount": 142,
+        "level": "advanced",
+        "category": "Web Development",
+        "subcategory": "TypeScript",
+        "tags": [
+            "typescript",
+            "generics",
+            "types"
+        ],
+        "language": "English",
+        "price": 79.99,
+        "discountPrice": 12.99,
+        "isBestseller": false,
+        "isNew": true,
+        "lastUpdated": "2025-01",
+        "shortDescription": "Write type-safe TypeScript you'll be proud to ship",
+        "whatYouLearn": [
+            "Generics",
+            "Mapped Types",
+            "Conditional Types",
+            "Declaration Files"
+        ]
+    },
+    {
+        "id": "c043",
+        "slug": "spanish-complete-beginners",
+        "title": "Spanish for Complete Beginners",
+        "subtitle": "Go from zero to conversational Spanish with native speakers and real dialogues",
+        "thumbnail": "https://picsum.photos/seed/spanish/480/270",
+        "instructor": {
+            "id": "u9",
+            "name": "Carlos Mendez",
+            "avatar": "https://i.pravatar.cc/48?u=carlos"
+        },
+        "rating": 4.7,
+        "reviewCount": 11200,
+        "enrollmentCount": 74000,
+        "totalDuration": 54000,
+        "lectureCount": 110,
+        "level": "beginner",
+        "category": "Personal Development",
+        "subcategory": "Language Learning",
+        "tags": [
+            "spanish",
+            "language",
+            "beginner"
+        ],
+        "language": "Spanish",
+        "price": 49.99,
+        "discountPrice": 7.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-07",
+        "shortDescription": "Speak Spanish confidently in 3 months",
+        "whatYouLearn": [
+            "Vocabulary",
+            "Grammar",
+            "Pronunciation",
+            "Conversation"
+        ]
+    },
+    {
+        "id": "c044",
+        "slug": "product-management",
+        "title": "Product Management Fundamentals",
+        "subtitle": "Roadmaps, user stories, prioritization frameworks, and stakeholder alignment",
+        "thumbnail": "https://picsum.photos/seed/product/480/270",
+        "instructor": {
+            "id": "u15",
+            "name": "Michael Adeyemi",
+            "avatar": "https://i.pravatar.cc/48?u=michael"
+        },
+        "rating": 4.5,
+        "reviewCount": 4200,
+        "enrollmentCount": 27000,
+        "totalDuration": 61200,
+        "lectureCount": 126,
+        "level": "intermediate",
+        "category": "Business",
+        "subcategory": "Product Management",
+        "tags": [
+            "product",
+            "roadmap",
+            "agile"
+        ],
+        "language": "English",
+        "price": 79.99,
+        "discountPrice": 12.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-08",
+        "shortDescription": "Become a confident product manager from day one",
+        "whatYouLearn": [
+            "Roadmapping",
+            "User Stories",
+            "OKRs",
+            "Stakeholder Management"
+        ]
+    },
+    {
+        "id": "c045",
+        "slug": "r-data-visualization",
+        "title": "R for Data Visualization",
+        "subtitle": "ggplot2, Shiny dashboards, and communicating data insights with R",
+        "thumbnail": "https://picsum.photos/seed/rlang/480/270",
+        "instructor": {
+            "id": "u3",
+            "name": "Priya Sharma",
+            "avatar": "https://i.pravatar.cc/48?u=priya"
+        },
+        "rating": 4.4,
+        "reviewCount": 3800,
+        "enrollmentCount": 23000,
+        "totalDuration": 72000,
+        "lectureCount": 148,
+        "level": "intermediate",
+        "category": "Data Science",
+        "subcategory": "R Programming",
+        "tags": [
+            "r",
+            "ggplot2",
+            "shiny"
+        ],
+        "language": "English",
+        "price": 69.99,
+        "discountPrice": 10.99,
+        "isBestseller": false,
+        "isNew": false,
+        "lastUpdated": "2024-06",
+        "shortDescription": "Create beautiful data stories with R and ggplot2",
+        "whatYouLearn": [
+            "ggplot2",
+            "Shiny",
+            "R Markdown",
+            "Statistical Graphics"
+        ]
+    }
+]

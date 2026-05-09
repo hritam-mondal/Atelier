@@ -28,7 +28,7 @@ Thumbs.db
 # misc
 *.local
 
-# public videos (optional, if you don't want to format them)
+# videos
 public/videos/
 
 # all minified files
@@ -46,6 +46,3 @@ pnpm-lock.yaml
 # compiled JS/JSX in src (if any)
 src/**/*.js
 src/**/*.jsx
-
-# mock data (optional, if you don't want to format them)
-src/data/mock*

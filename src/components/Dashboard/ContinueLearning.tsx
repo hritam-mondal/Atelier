@@ -41,14 +41,14 @@ export function ContinueLearning() {
       }}
       aria-label="Continue learning"
     >
-      <div className="flex flex-col sm:flex-row gap-0">
+      <div className="flex flex-col sm:flex-row sm:items-stretch gap-0">
         {/* Thumbnail */}
         <Link
           to="/"
-          className="relative shrink-0 w-full sm:w-72 aspect-video sm:aspect-auto sm:h-[170px] bg-gray-800 group overflow-hidden"
+          className="relative flex shrink-0 w-full sm:w-72 aspect-video sm:aspect-auto bg-gray-800 group overflow-hidden"
           aria-label={`Resume ${course.title}`}
         >
-          <img src={course.thumbnail} alt="" className="w-full h-full object-cover" loading="lazy" />
+          <img src={course.thumbnail} alt="" className="block w-full h-full object-cover" loading="lazy" />
           <div className="absolute inset-0 bg-black/30 group-hover:bg-black/40 transition-colors flex items-center justify-center">
             <div className="w-14 h-14 rounded-full bg-white/95 flex items-center justify-center shadow-lg group-hover:scale-105 transition-transform">
               <Play size={24} className="text-gray-900 fill-gray-900 ml-1" aria-hidden />

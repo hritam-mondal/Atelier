@@ -25,7 +25,7 @@ function reducer(state: QAState, action: QAAction): QAState {
     }
     case 'TOGGLE_VOTE': {
       const existing = state.votes.find(v => v.userId === action.userId && v.targetId === action.targetId && v.targetKind === action.targetKind);
-      let nextVotes = state.votes;
+      let nextVotes;
       let delta = 0;
       if (existing && existing.direction === action.direction) {
         // Toggle off

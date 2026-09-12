@@ -131,13 +131,12 @@ export function useQuiz(quiz: Quiz) {
 export function runCodeTests(question: CodeQuestion, userCode: string): { passed: boolean; results: { label: string; pass: boolean; got?: unknown; expected: unknown; error?: string }[] } {
   const results: { label: string; pass: boolean; got?: unknown; expected: unknown; error?: string }[] = [];
   // Build a function that exposes the user's function names. Strict mode + sandbox.
-  let fn: ((...args: unknown[]) => unknown) | null = null;
+  let fn: ((...args: unknown[]) => unknown) | null;
   try {
     // Extract first function declaration name to call.
     const match = userCode.match(/function\s+([A-Za-z_$][\w$]*)/);
     const name = match?.[1] ?? '__user';
     const wrapped = `'use strict';\n${userCode}\nreturn typeof ${name} === 'function' ? ${name} : null;`;
-    // eslint-disable-next-line @typescript-eslint/no-implied-eval
     fn = new Function(wrapped)() as ((...args: unknown[]) => unknown);
   } catch (e) {
     return {

@@ -134,9 +134,9 @@ export function AssessmentRunner({ quiz, onExit }: Props) {
           <QuestionTF question={question} answer={answers[question.id] as boolean | undefined} onChange={v => setAnswer(question.id, v)} />
         ) : question.kind === 'short-answer' ? (
           <QuestionShortAnswer question={question} answer={answers[question.id] as string | undefined} onChange={v => setAnswer(question.id, v)} />
-        ) : (
+        ) : question.kind === 'code' ? (
           <CodeQuestion question={question} answer={answers[question.id] as { code: string; passed?: boolean } | undefined} onChange={v => setAnswer(question.id, v)} />
-        )}
+        ) : null}
       </div>
 
       {/* Footer */}

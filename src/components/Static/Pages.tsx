@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Mail, MessageSquare, Search, FileQuestion, ArrowRight, CheckCircle2, AlertCircle, XCircle } from 'lucide-react';
+import { Mail, Search, FileQuestion, ArrowRight, CheckCircle2, AlertCircle, XCircle } from 'lucide-react';
 import { StaticPage, H2 } from './StaticPage';
 import { useState } from 'react';
 

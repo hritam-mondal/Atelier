@@ -69,7 +69,7 @@ export const mockQuestions: QAQuestion[] = [
 export const mockAnswers: QAAnswer[] = [
     {
         id: 'a1', questionId: 'q1', authorId: 'u1', authorName: 'Sarah Chen', authorAvatar: 'https://i.pravatar.cc/64?u=sarah', isInstructor: true,
-        body: `Great question — and the answer is: nothing is wrong. React 18\'s Strict Mode intentionally double-invokes effects in development to surface effect-cleanup bugs. In production it runs once.\n\nThink of it as: \`mount → unmount → mount\` in dev to make sure you handle remounts cleanly.`,
+        body: `Great question — and the answer is: nothing is wrong. React 18's Strict Mode intentionally double-invokes effects in development to surface effect-cleanup bugs. In production it runs once.\n\nThink of it as: \`mount → unmount → mount\` in dev to make sure you handle remounts cleanly.`,
         upvotes: 56, isAcceptedAnswer: true, createdAt: ago(3 * DAY - 2 * HOUR)
     },
     {

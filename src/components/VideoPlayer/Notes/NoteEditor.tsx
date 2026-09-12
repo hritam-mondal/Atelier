@@ -108,6 +108,8 @@ function ToolButton({ children, active, ...rest }: { children: React.ReactNode; 
         backgroundColor: active ? 'rgba(236,230,216,0.12)' : 'transparent',
         color: '#ece6d8',
       }}
-    />
+    >
+      {children}
+    </button>
   );
 }

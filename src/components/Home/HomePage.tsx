@@ -18,16 +18,6 @@ interface CourseEntry {
   initials: string;
 }
 
-interface SearchEntry {
-  type: 'course' | 'track' | 'category';
-  title: string;
-  category: string;
-  author?: string;
-  duration?: string;
-  level?: string;
-  initials?: string;
-}
-
 interface Theme {
   bg: string;
   bgWarm: string;

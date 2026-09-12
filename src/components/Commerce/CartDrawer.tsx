@@ -14,7 +14,7 @@ interface Props {
 }
 
 export function CartDrawer({ open, onClose }: Props) {
-  const { state, dispatch, totals, resolvedItems } = useCart();
+  const { dispatch, totals, resolvedItems } = useCart();
 
   useEffect(() => {
     if (!open) return;

@@ -1,5 +1,5 @@
 import { createContext, useContext, useReducer, useEffect, useMemo, useRef, type ReactNode } from 'react';
-import type { CartState, CartAction, CartItem, AppliedCoupon } from '../types/commerce';
+import type { CartState, CartAction, CartItem } from '../types/commerce';
 import type { CatalogCourse } from '../types/catalog';
 import { findCoupon } from '../data/mockCoupons';
 import { computeTax } from '../utils/computeTax';

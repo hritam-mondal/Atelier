@@ -17,7 +17,7 @@ export function LoginPage() {
   const [remember, setRemember] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  const useCredential = (e: string, p: string) => {
+  const fillCredential = (e: string, p: string) => {
     setEmail(e); setPassword(p); setError(null);
   };
 
@@ -71,7 +71,7 @@ export function LoginPage() {
               <button
                 key={cred.email}
                 type="button"
-                onClick={() => useCredential(cred.email, cred.password)}
+                onClick={() => fillCredential(cred.email, cred.password)}
                 className="w-full text-left flex items-center gap-3 px-3 py-2 rounded-lg hover:bg-white/[0.04] transition-colors"
                 style={{ border: '1px solid rgba(236,230,216,0.10)' }}
               >

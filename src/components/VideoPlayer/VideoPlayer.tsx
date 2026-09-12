@@ -27,7 +27,7 @@ export function VideoPlayer() {
 
   const controls = useVideoPlayer(videoRef, containerRef);
   const activeLecture = getLectureById(state.activeLectureId);
-  const { toggle: toggleBookmark, bookmarks } = useBookmarks();
+  const { toggle: toggleBookmark } = useBookmarks();
 
   // Register seek/pause/play handlers for the rest of the app (sidebar tabs, etc.)
   useEffect(() => {
@@ -38,9 +38,6 @@ export function VideoPlayer() {
       togglePlay: controls.togglePlay,
     });
   }, [controls.seek, controls.pause, controls.play, controls.togglePlay]);
-
-  // Bookmark markers for the active lecture
-  const lectureBookmarks = bookmarks.filter(b => b.lectureId === state.activeLectureId);
 
   // N / B / T / C shortcuts (notes/bookmarks/transcript/captions). 'B' toggles bookmark; others bubble up to sidebar via custom events.
   useEffect(() => {

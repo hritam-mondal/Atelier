@@ -13,8 +13,6 @@ import { formatMoney } from '../../utils/formatInvoice';
 const allCourses = rawCatalog as CatalogCourse[];
 
 // ─── Types ─────────────────────────────────────────────────────────────
-type ResultKind = 'course' | 'instructor' | 'category' | 'page';
-
 interface CourseResult { kind: 'course'; course: CatalogCourse; to: string }
 interface InstructorResult { kind: 'instructor'; name: string; avatar: string; courseCount: number; to: string }
 interface CategoryResult { kind: 'category'; name: string; courseCount: number; to: string }
@@ -222,7 +220,7 @@ export function SearchModal({ open, onClose, signedIn, role }: Props) {
     setQuery('');
   };
 
-  const useRecent = (s: string) => {
+  const applyRecentSearch = (s: string) => {
     setQuery(s);
     inputRef.current?.focus();
   };
@@ -289,7 +287,7 @@ export function SearchModal({ open, onClose, signedIn, role }: Props) {
                     {recent.map(s => (
                       <button
                         key={s}
-                        onClick={() => useRecent(s)}
+                        onClick={() => applyRecentSearch(s)}
                         className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-xs hover:opacity-80 transition-opacity"
                         style={{ border: '1px solid rgba(236,230,216,0.15)', color: '#ece6d8' }}
                       >
